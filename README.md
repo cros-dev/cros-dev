@@ -33,7 +33,7 @@ Desenvolvedor em formação, focado em criar soluções modernas, funcionais e c
 <img src="https://skillicons.dev/icons?i=docker,ansible,git,github,gitlab,postgres,mysql,sqlite,firebase" height="40" />
 
 ### 🧪 Testes & Design</h3>
-<img src="https://skillicons.dev/icons?i=postman,figma,selenium" height="40" />
+<img src="https://skillicons.dev/icons?i=postman,selenium,figma" height="40" />
 
 ---
 Acredito que aprender na prática é o caminho mais eficaz — por isso estou sempre transformando teoria em código real.

@@ -1,129 +1,52 @@
-<h1 align="left">Olá, eu sou o Caio!</h1>
+# Oi, eu sou o Caio!
+<p align="left">
+Desenvolvedor em formação, focado em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para desenvolvimento fullstack com Django REST, Angular e Kotlin, transformando cada novo conhecimento em projetos práticos e reais.
+</p>
 
-###
+## Sobre mim
 
-<p align="left">Desenvolvedor em formação, focado em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para Django REST, Angular e Kotlin, buscando transformar cada novo conhecimento em projetos práticos ao longo da minha jornada em Desenvolvimento de Software.</p>
+- 🖥️ Técnico em Desenvolvimento de Software pela FPFtech<br>
+- 📚 Estudando Django, Angular, Kotlin, Flutter, Node.js<br>
+- 🌍 Explorando novas tecnologias e aplicando-as em projetos pessoais, acadêmicos e experimentações técnicas
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">• 🖥️ Técnico em Desenvolvimento de Software pela FPFtech<br>• 📚 Estudando Django, Angular, Kotlin, Flutter, Node.js,  e desenvolvimento fullstack<br>• 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-
-###
+---
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cros-storm/cros-storm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cros-storm/cros-storm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cros-storm/cros-storm/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cros-dev/cros-dev/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cros-dev/cros-dev/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cros-dev/cros-dev/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+---
 
-<h2 align="left">Tecnologias e linguagens 📦</h2>
+## Tecnologias e linguagens 📦
 
-###
+### 💻 Linguagens de Programação
+<img src="https://skillicons.dev/icons?i=html,css,py,docker,kotlin,js,ts,dart" height="40" />
 
-<h3 align="left">💻 Linguagens de Programação</h3>
+### ⚙️ Frameworks & Bibliotecas
+<img src="https://skillicons.dev/icons?i=django,angular,flutter,nodejs" height="40" />
 
-###
+### 🧰 Ferramentas & DevOps
+<img src="https://skillicons.dev/icons?i=docker,ansible,git,github,gitlab,postgres,mysql,sqlite,firebase" height="40" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-</div>
+### 🧪 Testes & Design</h3>
+<img src="https://skillicons.dev/icons?i=postman,figma,selenium" height="40" />
 
-###
+---
+Acredito que aprender na prática é o caminho mais eficaz — por isso estou sempre transformando teoria em código real.
 
-<h3 align="left">⚙️ Frameworks & Bibliotecas</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🧰 Ferramentas & DevOps</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h3 align="left">🧪 Testes & Design</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-###
+<p align="left"></p>
 
 <p align="left">
-  💻 Sou formado como Técnico em Desenvolvimento de Software pela FPFtech e atualmente sigo me aprofundando na área, com foco em desenvolvimento web e mobile.<br><br>
-  Tenho estudado Python (Django/DRF), Angular, Kotlin e Flutter, explorando o desenvolvimento fullstack. Também venho ampliando meus conhecimentos em Docker, Ansible, Node.js e bancos de dados como PostgreSQL, SQL Server e SQLite, aplicando tudo isso em projetos acadêmicos, pessoais e experimentações técnicas que compartilho com frequência.<br><br>
-  Acredito que aprender na prática é o caminho mais eficaz — por isso estou sempre transformando teoria em código real.
+Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn!
 </p>
 
-###
-
-<p align="left">Vamos nos conectar? Me chama no LinkedIn ou manda um e-mail!</p>
-
-<div align="left" style="text-decoration:none;">
-  <a href="mailto:crosnegocios@hotmail.com" title="Enviar email" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" />
-  </a><a href="https://www.linkedin.com/in/caio-riquelmy-a295ba19b/" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
-
-###
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=crosnegocios@hotmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/[eduarda-vieira-gon%C3%A7alves-01a584297](https://www.linkedin.com/in/caio-riquelmy-a295ba19b/)/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>

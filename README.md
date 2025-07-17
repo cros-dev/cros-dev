@@ -106,16 +106,23 @@
 
 ###
 
-<p align="left">💻 Sou formado como Técnico em Desenvolvimento de Software pela FPFtech e atualmente sigo me aprofundando na área, com foco em desenvolvimento web e mobile.<br><br>Tenho estudado Python (Django/DRF), Angular, Kotlin e Flutter, explorando o desenvolvimento fullstack. Também venho ampliando meus conhecimentos em Docker, Ansible, Node.js e bancos de dados como PostgreSQL, SQL Server e SQLite, aplicando tudo isso em projetos acadêmicos, pessoais e experimentações técnicas que compartilho com frequência.<br><br>Acredito que aprender na prática é o caminho mais eficaz — por isso estou sempre transformando teoria em código real.<br><br>Vamos nos conectar? Me chama no LinkedIn ou manda um e-mail!</p>
+###
+
+<p align="left">
+  💻 Sou formado como Técnico em Desenvolvimento de Software pela FPFtech e atualmente sigo me aprofundando na área, com foco em desenvolvimento web e mobile.<br><br>
+  Tenho estudado Python (Django/DRF), Angular, Kotlin e Flutter, explorando o desenvolvimento fullstack. Também venho ampliando meus conhecimentos em Docker, Ansible, Node.js e bancos de dados como PostgreSQL, SQL Server e SQLite, aplicando tudo isso em projetos acadêmicos, pessoais e experimentações técnicas que compartilho com frequência.<br><br>
+  Acredito que aprender na prática é o caminho mais eficaz — por isso estou sempre transformando teoria em código real.
+</p>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/caio-riquelmy-a295ba19b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:crosnegocios@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+<p align="left">Vamos nos conectar? Me chama no LinkedIn ou manda um e-mail!</p>
+
+<div align="left" style="text-decoration:none;">
+  <a href="mailto:crosnegocios@hotmail.com" title="Enviar email" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" />
+  </a><a href="https://www.linkedin.com/in/caio-riquelmy-a295ba19b/" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 

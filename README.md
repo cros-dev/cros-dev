@@ -1,4 +1,3 @@
-# Oi, eu sou o Caio!
 <p align="left">
 Desenvolvedor em formação, focado em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para desenvolvimento fullstack com Django REST, Angular e Kotlin, transformando cada novo conhecimento em projetos práticos e reais.
 </p>
